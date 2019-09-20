@@ -1,0 +1,130 @@
+body{
+	margin: 0;
+	background-color: #00FFFF;
+}
+
+.container{
+
+	width: 1000px;
+	margin: 0 auto;
+}
+
+.disabled{
+	text-decoration: none;
+}
+
+header{
+	height: 158px;
+	background-color: blue;
+	padding: 7px 38px;
+}
+
+header img{
+	width: 170px;
+	float: left;
+}
+
+header ul{
+	list-style: none;
+	margin-left: 230px;
+}
+
+header ul li{
+	float: left;
+
+}
+
+header ul li a{
+	padding: 10px 20px;
+	background-color: white;
+	text-decoration: none;
+	font-family: rockwell;
+	font-weight: 800;
+	color: black;
+}
+header ul li a:hover{
+
+	background-color: #d2dae0;
+}
+
+.clear{
+
+	clear: both;
+}
+.grid{
+	width: 208px;
+	padding: 10px;
+	border: 1px solid;
+	border-radius: 5px;
+	float: left;
+	margin: 5px;
+	background-color: blue;
+}
+
+.cover-grid{
+	width: 100%;
+	height: 200px;
+}
+.judul {
+	text-decoration: none;
+	text-align: center;
+	font-size: 17px;
+	font-family: arial;
+	color: white;
+}
+
+img{
+
+	width: 100%;
+	height: 150px;
+}
+
+.lihat{
+
+	text-align: center;
+	background-color: yellow;
+	padding: 2px 10px white;
+	border-radius: 3px;
+	font-color:  #FFFFFF;
+	text-decoration: none;
+	font-weight: 800;
+	font-family: arial;
+	height: 80px
+}
+
+.lihat a{
+	text-decoration: none;
+}
+
+a{
+
+	text-align: justify;
+}
+
+.lihat:hover{
+
+	background-color: #d2dae0;
+}
+
+@media screen and (max-width: 1250px){
+
+.container{
+
+	width: 400px;
+	margin: 0 auto;
+}
+
+.grid{
+	width: 168px;
+	padding: 10px;
+	border: 1px solid;
+	border-radius: 5px;
+	float: left;
+	margin: 5px;
+	background-color: blue;
+}
+.cover-grid{
+	width: 100%;
+	height: 150px;
+}
+}

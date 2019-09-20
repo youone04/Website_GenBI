@@ -1,0 +1,626 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ps",
+				"position\tproperty"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"te",
+				"text-decoration\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"a",
+				"alternate\tanimation-direction"
+			],
+			[
+				"animation-i",
+				"moz-animation-iteration-count"
+			],
+			[
+				"ani",
+				"animation-delay\tproperty"
+			],
+			[
+				"f",
+				"fixed\tposition"
+			],
+			[
+				"en",
+				"endif"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"b",
+				"border-color\tproperty"
+			],
+			[
+				"ce",
+				"cellspacing\tAttr"
+			],
+			[
+				"nama",
+				"nama_belakang"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"ma",
+				"max-width\tproperty"
+			],
+			[
+				"o",
+				"opacity\tproperty"
+			],
+			[
+				"w",
+				"white"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"tot",
+				"totallaman"
+			],
+			[
+				"to",
+				"totallaman"
+			],
+			[
+				"tota",
+				"totaldata"
+			],
+			[
+				"laman",
+				"lamansekarang"
+			],
+			[
+				"tex",
+				"texts"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"font-",
+				"font-size\tproperty"
+			],
+			[
+				"fon",
+				"font-weight\tproperty"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"glo",
+				"global"
+			],
+			[
+				"ht",
+				"htmlspecialchars"
+			],
+			[
+				"fun",
+				"functions"
+			],
+			[
+				"p",
+				"php\t<?php … ?>"
+			],
+			[
+				"fu",
+				"full-width"
+			],
+			[
+				"pa",
+				"placeholder\tAttr"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"session_",
+				"session_destroy"
+			],
+			[
+				"session",
+				"session_unset"
+			],
+			[
+				"lo",
+				"location"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"mysqli",
+				"mysqli_query"
+			],
+			[
+				"passw",
+				"password2"
+			],
+			[
+				"eho",
+				"echo\techo \"…\""
+			],
+			[
+				"regis",
+				"registrasi"
+			],
+			[
+				"er",
+				"error"
+			],
+			[
+				"gam",
+				"gambarlama"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"key",
+				"keyword"
+			],
+			[
+				"au",
+				"autofocus\tAttr"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"row",
+				"rows"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"end",
+				"endforeach"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"tr",
+				"transition\tproperty"
+			],
+			[
+				"li",
+				"line-height\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"t",
+				"td\tTag"
+			],
+			[
+				"pas",
+				"password2"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "adadad",
+			"settings":
+			{
+				"buffer_size": 6,
+				"line_ending": "Windows",
+				"name": "adadad"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: html"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 171.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/p1/semester5/tugaspabw.php",
+		"/D/IF 5/pengembangan aplikasi berbasi web/New folder/5 PABW/Tugas/index.html",
+		"/D/IF 5/pengembangan aplikasi berbasi web/New folder/5 PABW/Tugas/style.css",
+		"/C/xampp/htdocs/p1/berita/tambah.php",
+		"/C/xampp/htdocs/p1/berita/listberita.php",
+		"/C/xampp/htdocs/p1/semester5/fungsi.php",
+		"/C/xampp/htdocs/p1/berita/list.php",
+		"/C/xampp/htdocs/p1/berita/users.php",
+		"/C/xampp/htdocs/p1/semester5/efectblink.php",
+		"/C/xampp/htdocs/p1/semester5/membuatperulangankotak.php",
+		"/C/xampp/htdocs/p1/semester5/latihan2.php",
+		"/C/xampp/htdocs/p1/semester5/latihan1.php",
+		"/C/xampp/htdocs/p1/pertemuan16/s",
+		"/C/xampp/htdocs/p1/pertemuan16/py.py",
+		"/D/Users/You One/Documents/belajar.html",
+		"/C/xampp/htdocs/p1/berita/header2.php",
+		"/C/Users/You One/Desktop/web/semester5/latihan.php",
+		"/C/xampp/htdocs/p1/berita/hapus.php",
+		"/C/xampp/htdocs/p1/berita/header.php",
+		"/C/xampp/htdocs/p1/berita/index2.php",
+		"/C/xampp/htdocs/p1/berita/ubah.php",
+		"/C/xampp/htdocs/p1/berita/login.php",
+		"/C/xampp/htdocs/p1/berita/s.css",
+		"/C/xampp/htdocs/p1/berita/home.php",
+		"/C/xampp/htdocs/p1/pertemuan16/html.php",
+		"/C/xampp/htdocs/p1/berita/img/logo4.png",
+		"/C/xampp/htdocs/p1/berita/functions.php",
+		"/C/xampp/htdocs/p1/berita/style0.css",
+		"/C/xampp/htdocs/p1/berita/css.css",
+		"/C/xampp/htdocs/p1/pertemuan16/st.css",
+		"/C/xampp/htdocs/p1/berita/st.css",
+		"/G/html/proyek1.html",
+		"/C/xampp/htdocs/p1/berita/style2.css",
+		"/C/xampp/htdocs/p1/berita/style3.css",
+		"/C/xampp/htdocs/p1/berita/style.css",
+		"/C/xampp/htdocs/p1/berita/hh.php",
+		"/C/xampp/htdocs/p1/berita/userss.php",
+		"/C/xampp/htdocs/p1/berita/l.php",
+		"/C/xampp/htdocs/p1/berita/kotak.html",
+		"/D/TUGAS/ustora/ustora/index.html",
+		"/C/xampp/htdocs/p1/berita/b.php",
+		"/C/xampp/htdocs/p1/berita/list - Copy.php",
+		"/G/html/test/style.css",
+		"/G/html/test/proyek1.html",
+		"/G/html/style.css",
+		"/C/xampp/htdocs/p1/pertemuan16/lo.php",
+		"/C/xampp/htdocs/p1/berita/love.php",
+		"/C/xampp/htdocs/p1/berita/index.html",
+		"/C/xampp/htdocs/p1/berita/index1.php",
+		"/C/xampp/htdocs/p1/berita/TAMPILKAN ALAMAT PENGELOLA YANG MELAKUKAN  TRANSAK",
+		"/C/xampp/htdocs/p1/berita/select produk_nama, jumlah_stok from produk where",
+		"/D/if4/teori bahasa formal dan otomata/tugas/kuis",
+		"/D/if4/teori bahasa formal dan otomata/tugas/ALTER TABLE film ADD jumlah int(10) FIRST;",
+		"/D/if4/teori bahasa formal dan otomata/tugas/Tampilkan data Produk dan supplier yang sesuai(sam",
+		"/D/if4/teori bahasa formal dan otomata/tugas/create table rekening(nomor int(10) not null prima",
+		"/D/if4/teori bahasa formal dan otomata/tugas/database.txt",
+		"/D/if4/teori bahasa formal dan otomata/tugas/sas",
+		"/D/DATA/itera/sasha/assets/css/responsive.css",
+		"/D/DATA/itera/sasha/index.html",
+		"/C/xampp/htdocs/p1/berita/admin.php",
+		"/D/DATA/itera/sasha/demo/index.html",
+		"/C/Users/You One/Desktop/web/index.html",
+		"/D/sementara/sasha/index.html",
+		"/C/xampp/htdocs/p1/berita/users2.php",
+		"/C/Users/You One/Desktop/web/style.css",
+		"/C/Users/You One/Desktop/web/jquery.min.js",
+		"/C/Users/You One/Desktop/web/index.php",
+		"/C/xampp/htdocs/p1/pertemuan16/ubah.php",
+		"/C/xampp/htdocs/p1/pertemuan16/hapus.php",
+		"/C/xampp/htdocs/p1/pertemuan16/tambah.php",
+		"/C/xampp/htdocs/p1/pertemuan16/functions.php",
+		"/C/xampp/htdocs/p1/pertemuan16/index.php",
+		"/C/xampp/htdocs/p1/pertemuan16/list.php",
+		"/C/xampp/htdocs/p1/pertemuan16/htmladmin.php",
+		"/C/xampp/htdocs/p1/pertemuan16/note2.php",
+		"/D/if4/teori bahasa formal dan otomata/tugas/boostrap.html",
+		"/D/if4/teori bahasa formal dan otomata/tugas/tubesTBFO.cpp",
+		"/C/xampp/htdocs/p1/pertemuan16/note.php",
+		"/C/xampp/htdocs/p1/berita/img/5c98fa0ba809c.jpg",
+		"/C/xampp/htdocs/p1/pertemuan16/registrasi.php",
+		"/C/xampp/htdocs/p1/berita/index.php",
+		"/C/xampp/htdocs/p1/pertemuan16/coba/functions.php",
+		"/C/xampp/htdocs/p1/pertemuan16/coba/tambah.php",
+		"/C/xampp/htdocs/p1/pertemuan16/coba/berita/functions.php",
+		"/C/xampp/htdocs/p1/pertemuan16/coba/berita/index.php",
+		"/C/xampp/htdocs/p1/pertemuan16/coba/cob.php",
+		"/C/xampp/htdocs/p1/pertemuan16/ta",
+		"/C/xampp/htdocs/p1/pertemuan16/login.php",
+		"/C/xampp/htdocs/p1/pertemuan16/cob.php",
+		"/C/xampp/htdocs/p1/pertemuan16/registrasi2.php",
+		"/C/xampp/htdocs/p1/pertemuan16/logout.php",
+		"/C/xampp/htdocs/p1/pertemuan16/style2.css",
+		"/C/xampp/htdocs/p1/pertemuan16/users.php",
+		"/C/xampp/htdocs/p1/pertemuan16/test.php",
+		"/C/xampp/htdocs/p1/pemgrograman/kuisprak.java",
+		"/C/xampp/htdocs/p1/pemgrograman/kuisprak2.java",
+		"/C/xampp/htdocs/p1/pemgrograman/link belajarr so.txt",
+		"/D/if4/referensi.txt",
+		"/C/Users/You One/Links/if4.lnk",
+		"/C/xampp/htdocs/p1/pemgrograman/malas.html",
+		"/C/xampp/htdocs/p1/pemgrograman/sty.css",
+		"/C/xampp/htdocs/p1/pertemuan15/index.php",
+		"/C/xampp/htdocs/p1/pertemuan15/login.php",
+		"/C/xampp/htdocs/p1/pertemuan14/login.php",
+		"/C/xampp/htdocs/p1/pertemuan14/index.php",
+		"/C/xampp/htdocs/p1/pertemuan14/list.php",
+		"/C/xampp/htdocs/p1/pemgrograman/tahap css/ubah.php",
+		"/C/xampp/htdocs/p1/pertemuan14/users.php",
+		"/C/xampp/htdocs/p1/pemgrograman/pertemuan14/daftar.php",
+		"/C/xampp/htdocs/p1/pemgrograman/tahap css/tampilan daftar/pertemuan14/users.php",
+		"/C/xampp/htdocs/p1/pertemuan14/tambah.php",
+		"/C/xampp/htdocs/p1/pemgrograman/pertemuan14/tambah.php",
+		"/C/xampp/htdocs/p1/pemgrograman/pertemuan14/functions.php",
+		"/C/xampp/htdocs/p1/pemgrograman/pertemuan14/index.php",
+		"/C/xampp/htdocs/p1/pemgrograman/tahap css/tampilan daftar/pertemuan14/daftar.php",
+		"/C/xampp/htdocs/p1/pemgrograman/tahap css/tampilan daftar/pertemuan14/daftar.html",
+		"/C/xampp/htdocs/p1/pemgrograman/tahap css/tampilan daftar/pertemuan14/index.php",
+		"/C/xampp/htdocs/p1/pemgrograman/tahap css/registrasi.php",
+		"/C/xampp/htdocs/p1/pemgrograman/tahap css/index.php",
+		"/C/xampp/htdocs/p1/pemgrograman/tahap css/functions.php",
+		"/C/xampp/htdocs/p1/pemgrograman/tahap css/tampilan daftar/daftar.html",
+		"/C/xampp/htdocs/p1/pertemuan14/style2.css",
+		"/C/xampp/htdocs/p1/pemgrograman/pertemuan11/index.html",
+		"/C/xampp/htdocs/p1/pemgrograman/tahap css/hapus.php",
+		"/G/project/kasih css/registrasi.php",
+		"/C/xampp/htdocs/p1/pemgrograman/KUIS 1 PBO Teknik Informatika ITERA",
+		"/C/xampp/htdocs/p1/pertemuan14/functions.php",
+		"/C/xampp/htdocs/p1/pertemuan14/registrasi.php"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6,
+								6
+							]
+						],
+						"settings":
+						{
+							"auto_name": "adadad",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 50.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "functions.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 305.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
